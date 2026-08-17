@@ -1,0 +1,28 @@
+# vsim -c -do "run -all; quit" top_tb 
+# Start time: 17:05:59 on Aug 17,2026
+# Loading work.top_tb
+# Loading work.top
+# Loading work.grey_to_bin
+# Loading work.bin_to_seg_dec
+# run -all
+# Test case 1 of grey 0000 (digit 0) is being tested
+# Test case 1 of grey 0000 (digit 0) is working well
+# Test case 2 of grey 1011 (digit d) is being tested
+# Test case 2 of grey 1011 (digit d) is working well
+# Test case 3 of grey 1000 (digit F) is being tested
+# Test case 3 of grey 1000 (digit F) is working well
+# Test case 4 of grey 0101 (digit 6) is being tested
+# Test case 4 of grey 0101 (digit 6) is working well
+# Test case 5 of grey 1111 (digit A) is being tested
+# Test case 5 of grey 1111 (digit A) is working well
+# Test case 6 of grey 0011 (digit 2) is being tested
+# Test case 6 of grey 0011 (digit 2) is working well
+# Test case 7 of grey 1001 (digit E) is being tested
+# Test case 7 of grey 1001 (digit E) is working well
+# ** Note: $stop    : top_tb.v(118)
+#    Time: 180 us  Iteration: 0  Instance: /top_tb
+# Break in Module top_tb at top_tb.v line 118
+# Stopped at top_tb.v line 118
+#  quit
+# End time: 17:05:59 on Aug 17,2026, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
